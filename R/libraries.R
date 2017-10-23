@@ -6,7 +6,11 @@ lib_list <-
     "tidyverse",
     "purrr",
     "stringr",
-    "mlr"
+    "mlr",
+    "parallelMap",
+    "forcats"
   )
 
 packages(lib_list, prompt = FALSE)
+
+
