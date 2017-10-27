@@ -8,7 +8,8 @@ lib_list <-
     "stringr",
     "mlr",
     "parallelMap",
-    "forcats"
+    "forcats",
+    "GGally"
   )
 
 packages(lib_list, prompt = FALSE)
